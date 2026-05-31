@@ -1,1 +1,2 @@
 # SUPERVISED-MACHINE-LEARNING
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankan-git-coder/SUPERVISED-MACHINE-LEARNING/blob/main/)
