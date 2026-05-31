@@ -7,7 +7,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankan-git-coder/SUPERVISED-MACHINE-LEARNING/blob/main/fake_news_detection.ipynb)
 
 
-## house price prediction project
+## house price prediction project using linear regression
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankan-git-coder/SUPERVISED-MACHINE-LEARNING/blob/main/house_price_prediction.ipynb)
 
 
